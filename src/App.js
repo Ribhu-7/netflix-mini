@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import './index.css' //External CSS
 import Appbar from  './components/Appbar';
 import 'bootstrap/dist/css/bootstrap.min.css'; 
